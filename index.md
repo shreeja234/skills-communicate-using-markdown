@@ -13,3 +13,5 @@ This is Heading6
 
 
 Headings has been added
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
